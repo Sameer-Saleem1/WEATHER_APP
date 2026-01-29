@@ -36,7 +36,7 @@ This Weather App is a simple yet elegant web application that allows users to ch
 - 🎨 **Beautiful UI**: Gradient background design with smooth animations
 - 📱 **Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
 - 🌡️ **Comprehensive Info**: Displays temperature, humidity, and wind speed
-- 🖼️ **Dynamic Icons**: Weather icons change based on current conditions (Clear, Clouds, Rain, Drizzle, Mist)
+- 🖼️ **Dynamic Icons**: Weather icons change based on current conditions (Clear, Clouds, Rain, Drizzle, Mist, and more)
 - ⚡ **Fast & Lightweight**: Built with vanilla JavaScript - no frameworks required
 - ❌ **Error Handling**: Displays user-friendly error messages for invalid city names
 - 🔍 **Simple Search**: Easy-to-use search interface with instant results
@@ -104,9 +104,9 @@ This Weather App is a simple yet elegant web application that allows users to ch
 
 ## 🔑 API Setup
 
-This project uses the OpenWeatherMap API. The API key is already included in the code for demonstration purposes, but you should get your own API key for production use.
+This project uses the OpenWeatherMap API. **Important:** You need to obtain your own API key for the application to work properly.
 
-### Getting Your Own API Key:
+### Getting Your API Key:
 
 1. Visit [OpenWeatherMap](https://openweathermap.org/api)
 2. Sign up for a free account
@@ -171,7 +171,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Feel free to use it for learning and personal projects.
 
 ## 📧 Contact
 
